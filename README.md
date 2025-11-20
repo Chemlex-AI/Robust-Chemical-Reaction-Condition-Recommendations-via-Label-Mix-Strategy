@@ -157,18 +157,6 @@ Trained models are saved in the `model/` directory:
 - Student model: `model_{rtype}_{method}_{iterid}_attentionmix_fine_jmc.pt`
 
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{your_paper,
-  title={Robust Chemical Reaction Condition Recommendations via Label Mix Strategy},
-  author={Your Name},
-  journal={Your Journal},
-  year={2024}
-}
-```
 
 
 ## Acknowledgments
